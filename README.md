@@ -2,3 +2,8 @@
 # waffle
 
 A repo for me to experiment with waffle
+
+## Throughput
+
+[![Throughput Graph](https://graphs.waffle.io/aldreth/waffle/throughput.svg)](https://waffle.io/aldreth/waffle/metrics/throughput)
+
